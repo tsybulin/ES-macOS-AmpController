@@ -1,0 +1,9 @@
+ //  Localizable.strings
+ //  ESInput
+ //
+ //  Created by Pavel Tsybulin on 1/29/19.
+ //  Copyright © 2019 Pavel Tsybulin. All rights reserved.
+ //
+
+DeviceName = "IPAProAmp";
+ManufacturerName = "Ethernet Sound";
